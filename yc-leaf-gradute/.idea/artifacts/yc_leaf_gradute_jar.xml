@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yc-leaf-gradute:jar">
+    <output-path>E:/git/gitrepository/jar</output-path>
+    <root id="archive" name="yc-leaf-gradute.jar">
+      <element id="module-output" name="yc-leaf-gradute" />
+    </root>
+  </artifact>
+</component>
