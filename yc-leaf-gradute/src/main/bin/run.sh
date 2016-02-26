@@ -32,7 +32,7 @@ done
 
 params=$@
 
-if [ "$COMMAND" = "MultiCategoryCrawlerCli" ]; then
+if [ "$COMMAND" = "Hadoop" ]; then
     CLASS=Hadoop
 else
     CLASS=${COMMAND}
