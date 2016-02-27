@@ -5,4 +5,4 @@
   208  history remote
   209  history | grep remote
   210  history | grep remote > log.txt
-  i am test!
+  i am test!ddd
