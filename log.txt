@@ -1,0 +1,8 @@
+   70  git remote add origin https://github.com/sixgodleaf/ychch.git
+  155  git remote add origin https://github.com/sixgodleaf/leaf.git
+  157  git remote add origin https://github.com/sixgodleaf/leaf.git
+  162  git remote add origin https://github.com/sixgodleaf/leaf.git
+  208  history remote
+  209  history | grep remote
+  210  history | grep remote > log.txt
+  i am test!
