@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="jblas-1.2.0" value="project"/>
+		<level name="jmatio-0.2" value="project"/>
+		<level name="joda-time" value="project"/>
+		<level name="junit-4.10" value="project"/>
+		<level name="log4j-1.2.16" value="project"/>
+		<level name="stanford-corenlp-2012-01-08" value="project"/>
+		<level name="xom" value="project"/>
+	</levels>
+</component>
